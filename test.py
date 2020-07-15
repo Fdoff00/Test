@@ -1,3 +1,6 @@
+#Fernando Flores Fierros
+#14 - 07 - 2020
+#F Solutions.
 from random import randint
 print("Jugaremos al ahorcado.")
 palabras = ["hola", "foca", "loco", "pans", "teni"]
